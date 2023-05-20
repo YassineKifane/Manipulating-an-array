@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1590821989 source:c:\users\tchic\desktop\manipulation d'un tableau\main.cpp
+	<iostream>
+	"fonctions.h"
+
+1590821943 c:\users\tchic\desktop\manipulation d'un tableau\fonctions.h
+
+1591066226 source:d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\manipulation d'un tableau\main.cpp
+	<iostream>
+	"fonctions.h"
+
+1590825543 d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\manipulation d'un tableau\fonctions.h
+
+1591067649 source:d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\manipulation d'un tableau\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
